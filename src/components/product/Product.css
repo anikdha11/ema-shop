@@ -19,7 +19,8 @@
 }
 
 .btn-regular:hover{
-    color: rgb(250, 0, 0);
+    font-size: 0.9rem;
+  background-color: rgb(206, 90, 90);
    
 }
 .icon-color{
